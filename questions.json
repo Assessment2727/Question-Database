@@ -9870,7 +9870,7 @@
             "type": "WACE",
             "calculator": "assumed",
             "tags": [
-                "Short Answer",
+                "Short Response",
                 "Waves",
                 "Theory"
             ]
