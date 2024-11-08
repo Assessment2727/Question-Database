@@ -9861,6 +9861,19 @@
                 "Emission / Absorption Spectrum",
                 "Theory"
             ]
+        },
+        {
+            "id": "WACE2015Q1",
+            "name": "WACE 2015 Question 1",
+            "year": 2015,
+            "source": "WACE",
+            "type": "WACE",
+            "calculator": "assumed",
+            "tags": [
+                "Short Answer",
+                "Waves",
+                "Theory"
+            ]
         }
     ],
     "spec": [
